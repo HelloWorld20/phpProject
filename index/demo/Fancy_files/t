@@ -1,0 +1,12 @@
+(function () {
+	try{
+	if(typeof (mt_get) == 'function')
+	{
+		mt_get({
+uid:"c70b0b06-0445-4a27-a600-15171c4616fe",
+ismt:"1",
+new:"1"
+});
+	}
+}catch(e){}
+})();
